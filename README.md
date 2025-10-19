@@ -1,4 +1,4 @@
-# CSE-515-Phase-3
+# Image Database System
 feature_descriptor  {cm, elbp, hog}
 image_type  {cc, con, emboss, jitter, neg, noise1, noise2, original, poster, rot, smooth, stipple} (According to the current dataset. We haven’t made any assumptions about the image type name and hence can differ based on the dataset.)
 subject  [1-40] (string)
