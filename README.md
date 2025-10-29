@@ -189,15 +189,6 @@ Query image: 500/image-cc-1-1.png
 
 ---
 
-## 💡 Tips & Best Practices
-
-- **Feature Selection:** Use `cm` for color-based tasks, `hog` for shape/edge detection, `elbp` for texture analysis
-- **Latent Semantics:** Start with `k=10-20` for initial experiments, adjust based on dataset complexity
-- **LSH Parameters:** More layers (`-l`) improves recall but increases memory usage
-- **Classifier Choice:** `svm` generally provides best accuracy, `ppr` excels with graph-based relationships
-
----
-
 ## 📝 Notes
 
 - All folder paths can be relative or absolute
