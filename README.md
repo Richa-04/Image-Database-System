@@ -10,6 +10,7 @@
 A powerful image classification and retrieval system using advanced feature descriptors, dimensionality reduction, and multiple indexing techniques.
 
 ---
+
 ## 📋 Table of Contents
 
 - [System Components](#-system-components)
