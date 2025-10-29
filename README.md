@@ -1,5 +1,10 @@
 # 🖼️ Image Database System
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange)](https://scikit-learn.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-Latest-013243)](https://numpy.org/)  
+[![License](https://img.shields.io/badge/License-Academic-lightgrey)](#)
+
 A powerful image classification and retrieval system using advanced feature descriptors, dimensionality reduction, and multiple indexing techniques.
 
 ---
