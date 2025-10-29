@@ -205,4 +205,4 @@ Query image: 500/image-cc-1-1.png
 
 ---
 
-**Happy Image Searching! 🔍✨**
+**Happy Image Searching! 🔍✨*
