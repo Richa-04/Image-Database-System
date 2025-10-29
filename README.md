@@ -5,6 +5,8 @@
 [![NumPy](https://img.shields.io/badge/NumPy-Latest-013243)](https://numpy.org/)  
 [![License](https://img.shields.io/badge/License-Academic-lightgrey)](#)
 
+## Overview
+
 A powerful image classification and retrieval system using advanced feature descriptors, dimensionality reduction, and multiple indexing techniques.
 
 ---
